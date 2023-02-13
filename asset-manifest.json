@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-tallinn-tours/static/css/main.d653a6d5.css",
+    "main.js": "/react-tallinn-tours/static/js/main.ea58171a.js",
+    "static/media/Banner.png": "/react-tallinn-tours/static/media/Banner.fde0b33207e2726810e1.png",
+    "static/media/Photo 3.png": "/react-tallinn-tours/static/media/Photo 3.085c872f05aa92e7d486.png",
+    "static/media/Photo 2.png": "/react-tallinn-tours/static/media/Photo 2.00b266dacf9e7e01ae67.png",
+    "static/media/Photo 1.png": "/react-tallinn-tours/static/media/Photo 1.bbb856545cb6bae49176.png",
+    "static/media/Rectangle 4.png": "/react-tallinn-tours/static/media/Rectangle 4.2b4e3cec030f94f6b8a6.png",
+    "static/media/Rectangle 6.png": "/react-tallinn-tours/static/media/Rectangle 6.3295d6996e56b1c502be.png",
+    "static/media/Rectangle 3.png": "/react-tallinn-tours/static/media/Rectangle 3.b6a8e79a5a9c30e1459d.png",
+    "static/media/Rectangle 2.png": "/react-tallinn-tours/static/media/Rectangle 2.81443f58b019336aebfc.png",
+    "static/media/Rectangle 5.png": "/react-tallinn-tours/static/media/Rectangle 5.01ba4924acb14c2f8043.png",
+    "index.html": "/react-tallinn-tours/index.html",
+    "static/media/Vector 25 (1).svg": "/react-tallinn-tours/static/media/Vector 25 (1).43615d94c178ae061438.svg",
+    "static/media/Vector 25.svg": "/react-tallinn-tours/static/media/Vector 25.4d7bb1e36e272f4d84bc.svg",
+    "main.d653a6d5.css.map": "/react-tallinn-tours/static/css/main.d653a6d5.css.map",
+    "main.ea58171a.js.map": "/react-tallinn-tours/static/js/main.ea58171a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d653a6d5.css",
+    "static/js/main.ea58171a.js"
+  ]
+}
