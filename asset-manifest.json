@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-tallinn-tours/static/css/main.d653a6d5.css",
+    "main.css": "/react-tallinn-tours/static/css/main.5401ed82.css",
     "main.js": "/react-tallinn-tours/static/js/main.ea58171a.js",
     "static/media/Banner.png": "/react-tallinn-tours/static/media/Banner.fde0b33207e2726810e1.png",
     "static/media/Photo 3.png": "/react-tallinn-tours/static/media/Photo 3.085c872f05aa92e7d486.png",
@@ -14,11 +14,11 @@
     "index.html": "/react-tallinn-tours/index.html",
     "static/media/Vector 25 (1).svg": "/react-tallinn-tours/static/media/Vector 25 (1).43615d94c178ae061438.svg",
     "static/media/Vector 25.svg": "/react-tallinn-tours/static/media/Vector 25.4d7bb1e36e272f4d84bc.svg",
-    "main.d653a6d5.css.map": "/react-tallinn-tours/static/css/main.d653a6d5.css.map",
+    "main.5401ed82.css.map": "/react-tallinn-tours/static/css/main.5401ed82.css.map",
     "main.ea58171a.js.map": "/react-tallinn-tours/static/js/main.ea58171a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d653a6d5.css",
+    "static/css/main.5401ed82.css",
     "static/js/main.ea58171a.js"
   ]
 }
